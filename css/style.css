@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+    max-width: 100%;
+}
+
+#produtos {
+  display: flex;
+
+}
+
+#carrinho {
+display: block;
+margin: 5%;
+font-size:18px; 
+}
+
+.imagens {
+  width: 30vw;
+}
+
+h3 {
+  text-align: center;
+  font-size: 26px;
+}
+
+.produtos-single {
+  text-align: center;
+  font-size: 18px;
+}
+.container p{
+  margin-bottom: 1%;
+}
+a {
+  top: 3px;
+  background-color: rgb(50 0 150);
+  text-decoration: none;
+  color: rgb(255 255 255);
+  border-radius: 5px;
+  padding: 1%;
+}
+.p_quantidade{
+
+}
